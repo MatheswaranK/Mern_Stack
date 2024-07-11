@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.carousel-item img {
+    height: 500px;
+    object-fit: cover;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.navbar-brand{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+}
+.nav-item{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+}
